@@ -6,6 +6,9 @@ let currentWeapon = 0; //weapon
 
 let fighting;
 
+let monsterHealth;// life
+=======
+
 let monsterHealth;
 
 let inventory = [`stick`];
