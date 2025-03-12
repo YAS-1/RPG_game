@@ -5,11 +5,19 @@ let gold = 50;
 let currentWeapon = 0;
 
 let fighting;
+<<<<<<< Updated upstream
 let monsterHealth;
 let inventory = [`stick`];
+=======
+>>>>>>> Stashed changes
 
-const button1 = document.getElementById("button1");
-const button2 = document.getElementById("button2");
+
+let monsterHealth;
+let inventory = [`stick`]; //comment
+
+
+const button1 = document.getElementById("button1"); //button
+const button2 = document.getElementById("button2"); //button
 const button3 = document.getElementById("button3");
 const text = document.getElementById("text");
 const xpText = document.getElementById("xpText");
