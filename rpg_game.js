@@ -6,7 +6,7 @@ let currentWeapon = 0;
 
 let fighting;
 let monsterHealth;
-let inventory = [`stick`];
+let inventory = [`stick`]; //comment
 
 const button1 = document.getElementById("button1");
 const button2 = document.getElementById("button2");
