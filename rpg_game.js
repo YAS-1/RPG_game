@@ -5,7 +5,17 @@ let gold = 50;
 let currentWeapon = 0;
 
 let fighting;
+
 let monsterHealth;
+
+let inventory = [`stick`];
+
+
+
+let monsterHealth;
+let inventory = [`stick`]; //comment
+
+
 let inventory = [`stick`]; //comment
 
 const button1 = document.getElementById("button1"); //button
